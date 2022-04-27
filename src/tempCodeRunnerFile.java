@@ -1,1 +1,1 @@
-y
+double harga = 0, totalHarga = 0, hargaFinal = 0;
