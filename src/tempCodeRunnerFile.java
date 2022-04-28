@@ -1,1 +1,2 @@
-double harga = 0, totalHarga = 0, hargaFinal = 0;
+System.out.println("=============================================");
+            System.out.println("Jumlah uang yang harus dibayarkan : " +namaPembeli + " adalah" + hargaFinal);
