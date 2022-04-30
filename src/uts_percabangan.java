@@ -60,11 +60,11 @@ public class uts_percabangan {
                 }else if(totalHarga > 250_000) {
                     hargaFinal -= (0.15 * totalHarga);
                 }
-
             }
-
-            System.out.println("Jumlah uang yang harus dibayarkan " +namaPembeli + " adalah " + hargaFinal);
             System.out.println("==================================================");
         }
+
+        System.out.println("Jumlah uang yang harus dibayarkan mereka berdua adalah " + hargaFinal);
+
     }
 }
