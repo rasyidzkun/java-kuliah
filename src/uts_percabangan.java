@@ -61,8 +61,6 @@ public class uts_percabangan {
                     hargaFinal -= (0.15 * totalHarga);
                 }
 
-                System.out.println(nama + " : " + hargaFinal);
-
             }
 
             System.out.println("Jumlah uang yang harus dibayarkan " +namaPembeli + " adalah " + hargaFinal);
