@@ -1,6 +1,6 @@
 import java.util.stream.IntStream;
 
-public class linear_searching {
+public class linear_search {
     static int linearSearch(int[] arr, int value) {
         for(int i = 0; i < arr.length; i++) {
             if(arr[i] == value) return i;
@@ -10,7 +10,7 @@ public class linear_searching {
 
     public static void main(String[] args) {
         int[] arr = IntStream.range(1, 100).toArray();
-        int value = 8;
+        int value = 67;
 
         System.out.println(value + " found at index " + linearSearch(arr, value));
     }
