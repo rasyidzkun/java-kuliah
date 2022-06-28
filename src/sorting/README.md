@@ -6,3 +6,4 @@
 [Selection Sort](https://www.educative.io/answers/how-to-implement-selection-sort-in-java)<br />
 [Insertion Sort](https://www.educative.io/answers/what-is-insertion-sort-in-java)<br />
 [Merge Sort](https://youtu.be/bOk35XmHPKs)
+[QuickSort](https://youtu.be/h8eyY7dIiN4)
